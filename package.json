@@ -19,7 +19,7 @@
     "next": "^16.0.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
-    "uuid": "14.0.1"
+    "uuid": "14.0.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "3",
